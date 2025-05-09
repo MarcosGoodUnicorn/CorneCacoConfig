@@ -1,0 +1,14 @@
+# Build artifacts
+Examples/
+
+# Environment files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# ZMK specific
+.cache/
+/build/
+/zephyr/
